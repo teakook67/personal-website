@@ -1,0 +1,22 @@
+h1 {
+    color: mediumpurple;
+    background-color: pink;
+}
+
+table {
+    background-color: skyblue;
+    color: green;
+}
+
+hr {
+    height: 20px;
+    width: 5%;
+    border-style: dotted none none none;
+    border-width: 7px;
+    border-color: blueviolet;
+}
+
+h3 {
+    color: darkmagenta;
+    background-color: cornflowerblue;
+}
